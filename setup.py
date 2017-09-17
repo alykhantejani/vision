@@ -11,6 +11,7 @@ VERSION = '0.1.9'
 
 requirements = [
     'numpy',
+    'scipy',
     'pillow >= 4.1.1',
     'six',
     'torch',
